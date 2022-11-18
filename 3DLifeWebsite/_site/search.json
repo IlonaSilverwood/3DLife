@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Why 3D Life?",
+    "section": "",
+    "text": "My goal is to create a resource which encourages people to look at health and fitness as a multidimensional undertaking where biological, psychological, and social factors all impact our long term well-being and what we’re able to achieve with our bodies. The 3 dimensions in the name refer to this biopsychosocial model, which in my experience applies just as much to sustainable training and nutrition practices as it does to pain treatment."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "What is the purpose of this project?\nTo empower people with knowledge on how to train for long term, sustainable progress, including:\n\nteach readers about movement and training principles\nempower readers to make decisions about their training\nprovide technique instruction on complex lifts\nsuggest alternative exercises and when to use them\naddress myths about fitness, exercise selection, and nutrition\n\n\n\nWho is the intended audience?\nAnyone interested in strength training or fitness who would like to learn more about\n\nexercise selection\nexercise technique\ntraining principles\nnutrition for changing body composition or improving performance\nprogramming\n\n\n\nWhy is this guide being made?\nThere is too much incomplete or outright dangerous information about training and nutrition circulating in both online and real-life communities. I want to provide an educational resource that helps make decision-making easier for people who are overwhelmed and uncertain about what they should be doing to reach their fitness goals.\n\n\nWho is writing it?\nI am a Certified Strength and Conditioning Specialist (CSCS) through the National Strength and Conditioning Association (NSCA). I spend a lot of time helping people unlearn suboptimal to outright harmful training and eating habits, and hope that this resource will help both those already struggling as well as those who are just starting out and are unsure of where to turn for guidance.\n\n\nHow will this guide be published?\nI will be using Quarto tools to create, publish, and maintain this project."
+  },
+  {
+    "objectID": "posts.html",
+    "href": "posts.html",
+    "title": "Blog",
+    "section": "",
+    "text": "listing: contents: posts type: grid sort: “date desc” categories: true"
+  }
+]
