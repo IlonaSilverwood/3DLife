@@ -18,7 +18,7 @@ Anyone interested in strength training or fitness who would like to learn more a
 
 # Why is this guide being made?
 
-There is too much incomplete or outright dangerous information about training and nutrition circulating in both online and real-life communities. The purpose of this guide is to make decision making and learning easier for those who are overwhelmed and uncertain about what they should be doing to reach their fitness goals.
+There is too much incomplete or outright dangerous information about training and nutrition circulating in both online and real-life communities. The purpose of this guide is to provide an educational resource that helps with decision-making easier for those who are overwhelmed and uncertain about what they should be doing to reach their fitness goals.
 
 # Who is writing it?
 
