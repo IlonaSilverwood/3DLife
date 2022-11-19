@@ -4,14 +4,14 @@
     "href": "index.html",
     "title": "Why 3D Life?",
     "section": "",
-    "text": "My goal is to create a resource which encourages people to look at health and fitness as a multidimensional undertaking where biological, psychological, and social factors all impact our long term well-being and what we’re able to achieve with our bodies. The 3 dimensions in the name refer to this biopsychosocial model, which in my experience applies just as much to sustainable training and nutrition practices as it does to pain treatment."
+    "text": "My goal is to create a resource which encourages people to look at health and fitness as a multidimensional undertaking where biological, psychological, and social factors all impact our long term well-being and what we’re able to achieve with our bodies.\nThe 3 dimensions in the name refer to this biopsychosocial model, which in my experience applies just as much to sustainable training and nutrition practices as it does to chronic pain treatment."
   },
   {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "What is the purpose of this project?\nTo empower people with knowledge on how to train for long term, sustainable progress, including:\n\nteach readers about movement and training principles\nempower readers to make decisions about their training\nprovide technique instruction on complex lifts\nsuggest alternative exercises and when to use them\naddress myths about fitness, exercise selection, and nutrition\n\n\n\nWho is the intended audience?\nAnyone interested in strength training or fitness who would like to learn more about\n\nexercise selection\nexercise technique\ntraining principles\nnutrition for changing body composition or improving performance\nprogramming\n\n\n\nWhy is this guide being made?\nThere is too much incomplete or outright dangerous information about training and nutrition circulating in both online and real-life communities. I want to provide an educational resource that helps make decision-making easier for people who are overwhelmed and uncertain about what they should be doing to reach their fitness goals.\n\n\nWho is writing it?\nI am a Certified Strength and Conditioning Specialist (CSCS) through the National Strength and Conditioning Association (NSCA). I spend a lot of time helping people unlearn suboptimal to outright harmful training and eating habits, and hope that this resource will help both those already struggling as well as those who are just starting out and are unsure of where to turn for guidance.\n\n\nHow will this guide be published?\nI will be using Quarto tools to create, publish, and maintain this project."
+    "text": "What is the purpose of this project?\nTo empower people with knowledge on how to train for long term, sustainable progress, including:\n\nteach readers about movement and training principles\nempower readers to make decisions about their training\nprovide technique instruction on complex lifts\nsuggest alternative exercises and when to use them\naddress myths about fitness, exercise selection, and nutrition\n\n\n\nWho is the intended audience?\nAnyone interested in strength training or fitness who would like to learn more about\n\nexercise selection\nexercise technique\ntraining principles\nnutrition for changing body composition or improving performance\nprogramming\n\n\n\nWhy is this guide being made?\nThere is too much incomplete or outright dangerous information about training and nutrition circulating in both online and real-life communities. I want to provide an educational resource that helps make decision-making easier for people who are overwhelmed and uncertain about what they should be doing to reach their fitness goals.\n\n\nWho is writing it?\nI am a Certified Strength and Conditioning Specialist (CSCS) through the National Strength and Conditioning Association (NSCA). I spend a lot of time helping people unlearn suboptimal to outright harmful training and eating habits, and hope that this resource will help both those already struggling as well as those who are just starting out and are unsure of where to turn for guidance. You can learn more about me here\n\n\nHow will this guide be published?\nI will be using Quarto tools to create, publish, and maintain this project."
   },
   {
     "objectID": "posts.html",
@@ -19,5 +19,89 @@
     "title": "Blog",
     "section": "",
     "text": "listing: contents: posts type: grid sort: “date desc” categories: true"
+  },
+  {
+    "objectID": "resources.html",
+    "href": "resources.html",
+    "title": "",
+    "section": "",
+    "text": "list of external resources"
+  },
+  {
+    "objectID": "hipflexion.html",
+    "href": "hipflexion.html",
+    "title": "",
+    "section": "",
+    "text": "Hip flexion\nHip flexion is the movement of bringing the front of the thigh closer to the torso. An example is bending forward: your hip flexes as the angle between your torso and legs closes."
+  },
+  {
+    "objectID": "hipextension.html",
+    "href": "hipextension.html",
+    "title": "",
+    "section": "",
+    "text": "Hip extension\nHip extension happens when you increase the angle between the front of your thigh and your hip. Examples include standing up from a seated position, or reaching your leg behind you."
+  },
+  {
+    "objectID": "bracing.html",
+    "href": "bracing.html",
+    "title": "",
+    "section": "",
+    "text": "Bracing is the act of stiffening the muscles that make up your abdominal wall. It is neither pulling your abs in (also called hollowing), nor actively pushing them out. Your goal is to contract the muscles in order to enhance spinal stability.\n\n\nAn appropriate amount of abdominal stiffness enhances athletic performance by:\n\nAllowing a greater load to be lifted.\nEliminating spinal movement that could result in discomfort.\nIncreasing speed and force generation at the shoulder and hip.\n\n\n\n\nDifferent situations call for different levels of stiffness through the abdominal wall. A near-max lift will require a much stronger brace than a lighter lift. You should be matching the intensity of the brace to the given activity, generating enough stiffness to ensure that the added load will not result in unnecessary torso movement during the activity.\n\n\n\nDeveloping the muscle control necessary to create abdominal stiffness might require practice. The following steps will allow you to practice finding the appropriate muscular pattern:\n\nStand upright, in a neutral position. Do not let your shoulders or head fall forward.\nPlace your thumbs on your spinal extensors near the curve of your lower back.\nWrap fingers around your sides, towards your belly button.\nWithout moving, stiffen your abdominal muscles until you feel the muscles in both the front and back stiffen.\n\nIf this feels foreign, practice with other limbs first.\n\nLet your arm hang straight at your side.\nContract your bicep and tricep at the same time.\nNote the difference in how the area feels, despite the lack of movement at the shoulder or elbow."
+  },
+  {
+    "objectID": "hiphinge.html",
+    "href": "hiphinge.html",
+    "title": "",
+    "section": "",
+    "text": "A hip hinge is a cycle of hip flexion and hip extension, usually performed while standing.\n\n\nThe hips are designed to produce force, while the spine is not. Effective strength training requires us to generate force using the hips, while the lower back stays in a relatively fixed position due to an appropriate [brace]. It is important to be able to differentiate between movement at the hip and the lower back for several reasons:\n\nincrease the amount of load you can lift safely\nreduce risk of low back discomfort\nincrease [hip extensor muscle] strength\nencourage hypertrophy in hip extensors\n\n\n\n\nEvery compound lower body movement requires some degree of hip hinging. Some movements, for example a [Romanian deadlift], are entirely hip hinge based. Others, like a [squat] or [lunge], require a combination of hip hinging and [knee flexion]. The degree of hip movement relative to knee movement in a given exercise may change depending on:\n\nthe variation you are performing\nyour individual anatomy and preference\nyour training goals\n\n\n\n\nHip hinging may feel foreign at first, and it might be challenging to feel the difference between bending at the hip and bending at the lower back. Monitoring your movement by recording yourself or using your hands to feel what your back and hips are doing will help you learn the hip hinge pattern. To get started, try the following drill:\n\nStand upright, in a [neutral position].\n[Brace] abdominal wall.\nPlace one palm on your stomach and the other on your lower back.\nMaintain the abdominal brace as you push your hips back.\n\nNOTE: pay attention to your hands. If you feel your torso bending forward, reset the movement and try again.\n\nOnce you have reached your maximum range of motion, keep your torso still as your hips push forward to standing upright.\n\nNOTE: End range of motion is the point where you cannot move the hips back any more without bending at the spine."
+  },
+  {
+    "objectID": "shoulderblades.html",
+    "href": "shoulderblades.html",
+    "title": "",
+    "section": "",
+    "text": "The phrase ‘setting your shoulder blades’ describes the act of keeping your shoulder blades retracted. Some exercises call for the shoulder blades to stay retracted while the shoulder joint moves.\n\n\nThe shoulder blade-rib cage junction is a joint which moves independently of the arm-shoulder joint. Locking the shoulder blades during a press has the following benefits:\ngives the shoulder joint a stable platform from which to generate and express force increases the amount of weight you can press keeps the shoulder from moving into a weak position at the bottom of the movement\n\n\n\nDifferent exercises require different types of shoulder blade positioning and movement. It is important to set the shoulder blades for externally loaded [pressing] movements like: bench press dumbbell press floor press\n\n\n\nRetracting the shoulder blades while moving at the shoulder might feel unnatural at first. The following drill will allow you to feel out the movement:\nStand up straight with your arms stretched out in front of you. Pull your shoulder blades together. Keep elbows straight. Imagine you are squeezing a pen between your shoulder blades. Practice maintaining the retraction while mimicking a bench pressing motion."
+  },
+  {
+    "objectID": "tutorials/shoulderblades.html",
+    "href": "tutorials/shoulderblades.html",
+    "title": "",
+    "section": "",
+    "text": "The phrase ‘setting your shoulder blades’ describes the act of keeping your shoulder blades [retracted]. Some exercises call for the shoulder blades to stay retracted while the shoulder joint moves.\n\n\nThe shoulder blade-rib cage junction is a joint which moves independently of the arm-shoulder joint. Locking the shoulder blades during a press has the following benefits:\ngives the shoulder joint a stable platform from which to generate and express force increases the amount of weight you can press keeps the shoulder from moving into a weak position at the bottom of the movement\n\n\n\nDifferent exercises require different types of shoulder blade positioning and movement. It is important to set the shoulder blades for externally loaded [pressing] movements like: bench press dumbbell press floor press\n\n\n\nRetracting the shoulder blades while moving at the shoulder might feel unnatural at first. The following drill will allow you to feel out the movement:\nStand up straight with your arms stretched out in front of you. Pull your shoulder blades together. Keep elbows straight. Imagine you are squeezing a pen between your shoulder blades. Practice maintaining the retraction while mimicking a bench pressing motion."
+  },
+  {
+    "objectID": "definitions/hipextension.html",
+    "href": "definitions/hipextension.html",
+    "title": "",
+    "section": "",
+    "text": "Hip Extension\nHip extension happens when you increase the angle between the front of your thigh and your hip. Examples include standing up from a seated position, or reaching your leg behind you."
+  },
+  {
+    "objectID": "definitions/hipflexion.html",
+    "href": "definitions/hipflexion.html",
+    "title": "",
+    "section": "",
+    "text": "Hip Flexion\nHip flexion is the movement of bringing the front of the thigh closer to the torso. An example is bending forward: your hip flexes as the angle between your torso and legs closes."
+  },
+  {
+    "objectID": "tutorials/bracing.html",
+    "href": "tutorials/bracing.html",
+    "title": "",
+    "section": "",
+    "text": "Bracing is the act of stiffening the muscles that make up your abdominal wall. It is neither pulling your abs in (also called hollowing), nor actively pushing them out. Your goal is to contract the muscles in order to enhance spinal stability.\n\n\nAn appropriate amount of abdominal stiffness enhances athletic performance by:\n\nAllowing a greater load to be lifted.\nEliminating spinal movement that could result in discomfort.\nIncreasing speed and force generation at the shoulder and hip.\n\n\n\n\nDifferent situations call for different levels of stiffness through the abdominal wall. A near-max lift will require a much stronger brace than a lighter lift. You should be matching the intensity of the brace to the given activity, generating enough stiffness to ensure that the added load will not result in unnecessary torso movement during the activity.\n\n\n\nDeveloping the muscle control necessary to create abdominal stiffness might require practice. The following steps will allow you to practice finding the appropriate muscular pattern:\n\nStand upright, in a neutral position. Do not let your shoulders or head fall forward.\nPlace your thumbs on your spinal extensors near the curve of your lower back.\nWrap fingers around your sides, towards your belly button.\nWithout moving, stiffen your abdominal muscles until you feel the muscles in both the front and back stiffen.\n\nIf this feels foreign, practice with other limbs first.\n\nLet your arm hang straight at your side.\nContract your bicep and tricep at the same time.\nNote the difference in how the area feels, despite the lack of movement at the shoulder or elbow."
+  },
+  {
+    "objectID": "tutorials/hiphinge.html",
+    "href": "tutorials/hiphinge.html",
+    "title": "",
+    "section": "",
+    "text": "A hip hinge is a cycle of hip flexion and hip extension, usually performed while standing.\n\n\nThe hips are designed to produce force, while the spine is not. Effective strength training requires us to generate force using the hips, while the lower back stays in a relatively fixed position due to an appropriate [brace]. It is important to be able to differentiate between movement at the hip and the lower back for several reasons:\n\nincrease the amount of load you can lift safely\nreduce risk of low back discomfort\nincrease [hip extensor muscle] strength\nencourage hypertrophy in hip extensors\n\n\n\n\nEvery compound lower body movement requires some degree of hip hinging. Some movements, for example a [Romanian deadlift], are entirely hip hinge based. Others, like a [squat] or [lunge], require a combination of hip hinging and [knee flexion]. The degree of hip movement relative to knee movement in a given exercise may change depending on:\n\nthe variation you are performing\nyour individual anatomy and preference\nyour training goals\n\n\n\n\nHip hinging may feel foreign at first, and it might be challenging to feel the difference between bending at the hip and bending at the lower back. Monitoring your movement by recording yourself or using your hands to feel what your back and hips are doing will help you learn the hip hinge pattern. To get started, try the following drill:\n\nStand upright, in a [neutral position].\n[Brace] abdominal wall.\nPlace one palm on your stomach and the other on your lower back.\nMaintain the abdominal brace as you push your hips back.\n\nNOTE: pay attention to your hands. If you feel your torso bending forward, reset the movement and try again.\n\nOnce you have reached your maximum range of motion, keep your torso still as your hips push forward to standing upright.\n\nNOTE: End range of motion is the point where you cannot move the hips back any more without bending at the spine."
+  },
+  {
+    "objectID": "scapretraction.html",
+    "href": "scapretraction.html",
+    "title": "",
+    "section": "",
+    "text": "Scapular retraction\nScapular retraction is the act of pulling the inside edges of the shoulder blades towards the spine. A common cue for this is “pinch a pencil between your shoulder blades”. The ability to retract the scapulae is the foundation of many pressing and pulling movements."
   }
 ]
