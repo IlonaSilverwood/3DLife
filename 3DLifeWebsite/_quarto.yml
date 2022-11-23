@@ -11,10 +11,13 @@ website:
         text: "The 3D Life Project"
       - href: about.qmd
         text: "About"
-      - href: instructionals.qmd
+      - href: bracing.qmd
         text: "Technique Instruction"
       - href: posts.qmd
         text: "Posts"
+      - href: faq.qmd
+        text: "FAQ"
+
       
     right:
       - href: resources.qmd
@@ -33,6 +36,9 @@ website:
           - hipflexion.qmd
           - hipextension.qmd
           - scapretraction.qmd
+      - section: "FAQ"
+        contents:
+          - faq.qmdquarto 
 
 format:
   html:
