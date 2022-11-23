@@ -1,0 +1,4 @@
+- source: project
+  quarto-pub:
+    - id: 2dd3368a-63f0-4eb3-9890-739d27847ea9
+      url: 'https://quartopub.com/sites/3dlifeproject/3dlifewebsite'
