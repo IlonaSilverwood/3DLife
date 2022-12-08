@@ -2,17 +2,47 @@ project:
   type: website
 
 website:
-  title: "The 3D Life Project"
   navbar:
+    background: primary
+    foreground: secondary
+    search: true
     left:
       - href: index.qmd
-        text: Home
-      - about.qmd
-      - posts.qmd
+        text: "The 3D Life Project"
+      - href: about.qmd
+        text: "About"
+      - href: bracing.qmd
+        text: "Technique Instruction"
+      - href: posts.qmd
+        text: "Posts"
+      - href: faq.qmd
+        text: "FAQ"
+
+      
+    right:
+      - href: resources.qmd
+        text: "Resources"
+  sidebar:
+    style: "floating"
+    search: true
+    contents:
+      - section: "Instructionals"
+        contents:
+          - bracing.qmd
+          - shoulderblades.qmd
+          - hiphinge.qmd
+      - section: "Definitions"
+        contents:
+          - hipmvmnts.qmd
+          - scapretraction.qmd
+          - scapprotraction.qmd
+      - section: "FAQ"
+        contents:
+          - faq.qmd 
 
 format:
   html:
-    theme: cosmo
+    theme: lux
     css: styles.css
     toc: true
 
