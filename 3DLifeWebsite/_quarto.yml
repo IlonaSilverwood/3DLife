@@ -33,12 +33,12 @@ website:
           - hiphinge.qmd
       - section: "Definitions"
         contents:
-          - hipflexion.qmd
-          - hipextension.qmd
+          - hipmvmnts.qmd
           - scapretraction.qmd
+          - scapprotraction.qmd
       - section: "FAQ"
         contents:
-          - faq.qmdquarto 
+          - faq.qmd 
 
 format:
   html:
